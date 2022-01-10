@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/oguzhanatas/nodeJS_works/issues"
   },
-  "homepage": "https://github.com/oguzhanatas/nodeJS_works#readme"
+  "homepage": "https://github.com/oguzhanatas/nodeJS_works#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
